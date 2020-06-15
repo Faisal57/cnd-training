@@ -2,3 +2,8 @@ Toyota
 Nissan
 Mitsubishi
 Honda
+
+Supra
+GTR
+Lancer
+Civic
